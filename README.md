@@ -1,7 +1,7 @@
 <h1 align=center> 👋 Welcome to Litios profile! 👋 </h1>
 
 ### $ whoami
-- 👨‍💻 David Fernandez Gonzalez, but you can find my as Litios on the Internet.
+- 👨‍💻 David Fernandez Gonzalez, but you can find my as `litios` on the Internet.
 - 🗺️ Based on North Spain.
 - ♥️ I like cybersecurity stuff, with a focus on vulnerability research and code analysis 🐧
 - 💼 Currently working as Linux product security @ Oracle.
